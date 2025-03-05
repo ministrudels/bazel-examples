@@ -1,0 +1,36 @@
+{
+  "sysroot": "/home/huanmingan/.cache/bazel/_bazel_huanmingan/62417d0522c2b987a0cdd1fe77956ee9/external/rules_rust++rust+rust_analyzer_1.84.1_tools",
+  "sysroot_src": "/home/huanmingan/.cache/bazel/_bazel_huanmingan/62417d0522c2b987a0cdd1fe77956ee9/external/rules_rust++rust+rust_analyzer_1.84.1_tools/lib/rustlib/src/library",
+  "crates": [
+    {
+      "display_name": "bin",
+      "root_module": "/home/huanmingan/bazel-examples/rust-examples/01-hello-world/src/main.rs",
+      "edition": "2021",
+      "deps": [],
+      "is_workspace_member": true,
+      "cfg": [
+        "test",
+        "debug_assertions"
+      ],
+      "target": "x86_64-unknown-linux-gnu",
+      "env": {
+        "CARGO_CFG_TARGET_ARCH": "x86_64",
+        "CARGO_CFG_TARGET_OS": "linux",
+        "CARGO_CRATE_NAME": "bin",
+        "CARGO_MANIFEST_DIR": "/home/huanmingan/.cache/bazel/_bazel_huanmingan/62417d0522c2b987a0cdd1fe77956ee9/execroot/_main",
+        "CARGO_PKG_AUTHORS": "",
+        "CARGO_PKG_DESCRIPTION": "",
+        "CARGO_PKG_HOMEPAGE": "",
+        "CARGO_PKG_NAME": "bin",
+        "CARGO_PKG_VERSION": "0.0.0",
+        "CARGO_PKG_VERSION_MAJOR": "0",
+        "CARGO_PKG_VERSION_MINOR": "0",
+        "CARGO_PKG_VERSION_PATCH": "0",
+        "CARGO_PKG_VERSION_PRE": "",
+        "REPOSITORY_NAME": "",
+        "ZERO_AR_DATE": "1"
+      },
+      "is_proc_macro": false
+    }
+  ]
+}

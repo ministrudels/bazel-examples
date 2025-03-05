@@ -19,3 +19,4 @@ rust.toolchain(
 use_repo(rust, "rust_toolchains")
 
 register_toolchains("@rust_toolchains//:all")
+use_extension("//:rust_analyzer_ext.bzl", "rust_analyzer_ext")
