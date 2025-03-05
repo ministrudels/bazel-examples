@@ -13,6 +13,6 @@
 // limitations under the License.
 
 fn main() {
-    const a: i32 = true;
+    println!("{}", this_variable_does_not_exist);
     println!("Hello, world!");
 }
